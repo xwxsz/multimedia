@@ -6,8 +6,8 @@
 Для задачи классификации был выбран датасет [Video Games Rating By 'ESRB'](https://www.kaggle.com/datasets/imohtn/video-games-rating-by-esrb?resource=download) <br/>
 Цель: определить возрастной рейтинг игры на основе ее характеристик <br/>
 <br/>
-Для задачи регрессии был выбран датасет [Bike Sharing](https://archive.ics.uci.edu/dataset/275/bike+sharing+dataset) <br/>
-Цель: определить количество арендованных велосипедов на основе других атрибутов <br/>
+Для задачи регресии был выбран датасет [Real Estate Valuation Taiwan](https://archive.ics.uci.edu/dataset/477/real+estate+valuation+data+set) <br/>
+Цель: определить цену недвижимости на основе различных характеристик <br/>
 <br/>
 # Выбор метрик
 Задача классификации <br/>
